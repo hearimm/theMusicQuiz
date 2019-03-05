@@ -1,15 +1,6 @@
-Several useful example scripts are available at
-
-  http://code.google.com/p/mp3play/wiki/Examples
-
-and an example script to get you started is in example.py.  To run it, type
-
-  python.exe example.py
-
-in your Python directory.
-
-Questions?  Visit the project page at http://mp3play.googlecode.com .
-
-Thanks.
-Michael Gundlach
-gundlach@gmail.com
+1. python 설치
+1. resources 폴더에 mp3파일을 넣는다.(파일명은 영어로 넣어야 함)
+1. cmd 창을 열고 현재 폴더로 이동(ex: cd c:\music_quiz\)
+1. cmd 에서 실행 (ex: python quiz.py)
+1. 문제를 푼다
+1. 맞춘다
